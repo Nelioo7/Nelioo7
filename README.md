@@ -28,6 +28,9 @@ I am actually a 2nd year Computer Science student in IUT of Lille with the Appli
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
+## Connect with me:
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pardoue.jerome@gmail.com)
 
 
 
