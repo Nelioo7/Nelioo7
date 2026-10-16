@@ -1,14 +1,26 @@
 ## Hello there 👋
 
-### Presentation:
+## __Presentation:__
 
 I am actually a student on 2nd year of BUT of Computer Science in IUT of Lille with the Application Developpment Course
 
 -----
 
-## Primary Programming Language
+### __School Projects__
 
+
+
+-----
+## __Skills & Technologies Used__
+
+### Familiar Languages:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools:
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### Learning:
 
 
 
