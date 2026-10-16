@@ -2,7 +2,7 @@
 
 ## __Presentation:__
 
-I am actually a student on 2nd year of BUT of Computer Science in IUT of Lille with the Application Developpment Course
+I am actually a 2nd year Computer Science student in IUT of Lille with the Application Developpment Course
 
 -----
 
