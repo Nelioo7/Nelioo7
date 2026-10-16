@@ -6,11 +6,9 @@ I am actually a student on 2nd year of BUT of Computer Science in IUT of Lille w
 
 -----
 
+## Primary Programming Language
 
-
-
-
-
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
 
 
