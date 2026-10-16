@@ -1,8 +1,10 @@
 ## Hello there 👋
 
-test
----
+Presentation:
 
+I am actually a student on 2nd year of BUT of Computer Science in IUT of Lille with the Application Developpment Course
+
+-----
 <!--
 **Nelioo7/Nelioo7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
