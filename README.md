@@ -8,11 +8,13 @@ I am actually a 2nd year Computer Science student in IUT of Lille with the Appli
 
 ### __School Projects__
 
+
 [![Tetris](https://img.shields.io/badge/GitHub-tetris-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/projet-tetris)
 
 [![GPS3000](https://img.shields.io/badge/GitHub-GPS3000-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/GPS3000)
 
 -----
+
 ## __Skills & Technologies Used__
 
 ### Familiar Languages:
