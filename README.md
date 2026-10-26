@@ -8,8 +8,8 @@ I am actually a 2nd year Computer Science student in IUT of Lille with the Appli
 
 ### __School Projects__
 
-- **[![Tetris](https://img.shields.io/badge/GitHub-tetris-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/projet-tetris) We had 48h to make a game in Terminal User Interface with no AI.**
-- **[![GPS3000](https://img.shields.io/badge/GitHub-GPS3000-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/GPS3000) This was a project where we had to Design an app to manage routes between 2 points.**
+- **[![Tetris](https://img.shields.io/badge/GitHub-tetris-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/projet-tetris)**
+- **[![GPS3000](https://img.shields.io/badge/GitHub-GPS3000-2ea44f?style=for-the-badge&logo=github)](https://github.com/Nelioo7/GPS3000)**
 
 -----
 ## __Skills & Technologies Used__
